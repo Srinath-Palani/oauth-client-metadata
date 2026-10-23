@@ -1,0 +1,7 @@
+{
+  "client_name": "cci-research-skills",
+  "redirect_uris": ["http://localhost:8765/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "token_endpoint_auth_method": "none",
+  "response_types": ["code"]
+}
